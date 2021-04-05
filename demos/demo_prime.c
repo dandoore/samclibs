@@ -1,9 +1,7 @@
-//    Sam Coupe news demo
-//    demo_news.c
+//    Sam Coupe prime demo
+//    demo_prime.c
 //
 //    (C) 1995 RUMSOFT  
-//   
-//    optimized to speed up ( this version is 4 times faster)
 //
 
 void clscr();
